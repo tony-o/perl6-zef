@@ -1,3 +1,5 @@
+This repo is defunct.  Please use this one (https://github.com/ugexe/zef)
+
 ## NAME
 
 Zef - Perl6 Module Management
